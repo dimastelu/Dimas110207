@@ -60,4 +60,4 @@ I maintain a dedicated repository as my “digital garden” for math and ML not
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![PaloAlto](https://tse3.mm.bing.net/th/id/OIP.Eewlpv8w-idrdYyx0bCaTQHaEK?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3)
+![PaloAlto](https://img.shields.io/badge/PaloAlto-3776AB?style=flat-square&logo=PaloAlto-images.ctfassets.net/ajuyecyagjo7/4A23Wo3eqKrcd0HEN3uFNe/e811019b19915946e917e64be946b504/eyJidWNrZXQiOiJnZHAtc2l0ZSIsImtleSI6ImF0dGFjaG1lbnRzL2Nra2Q1NzV4bjAwMmJ1OGI0NWI0cTM4YTctcGFudy1sb2dvLTJ1cC0wMS5wbmciLCJlZGl.webp)
