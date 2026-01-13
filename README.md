@@ -15,7 +15,7 @@ I’m an engineering student with a strong background in **Programmer, calculus,
 
 My current focus is:
 
-- Create simple applications like websites, Program, PaloAlto
+- Create simple applications like **websites, Program, or Data Analizer** (PaloAlto, Jupyter, Python, Atoll)
 - Implementing **classical ML models** (SVM, tree–based models, regression) with clean, well-documented code.
 - Preparing for a future **Master’s in Machine Learning / AI abroad** (with a strong interest in Japan).
 
@@ -29,10 +29,10 @@ I maintain a dedicated repository as my “digital garden” for math and ML not
 
 | Area                  | Resource / Curriculum                              | Status       |
 |-----------------------|----------------------------------------------------|--------------|
-| Programmer            | *Essence of Python & Jupyter* – 3Blue1Brown        | ✅ Completed |
+| Programmer            | *Essence of Python & Jupyter* – Microsoft          | ✅ Completed |
 | Calculus              | *Essence of Calculus* – 3Blue1Brown                | ✅ Completed |
-| Math for ML           | *Mathematics for Machine Learning* – Coursera      | 🔄 In progress |
-| Probability & Stats   | Khan Academy + *An Introduction to Statistical Learning* | 🔜 Planned |
+| Math for ML           | *Mathematics for Machine Learning* – Course      | 🔄 In progress |
+| PaloAlto              | PaloAlto Course + *An Introduction of CyberSystem Cloud Network & Automated Protection Network* | 🔜 Planned |
 
 ---
 
@@ -40,7 +40,7 @@ I maintain a dedicated repository as my “digital garden” for math and ML not
 
 - **Intrusion Detection with SVM** – end-to-end ML pipeline for network traffic classification (99.5% test accuracy).  
 - **Bank Marketing Conversion Model (XGBoost)** – competition project (Top 3 nationally, AUC ~0.79, strong business lift).  
-- **Flocify – Smart Internet 5G Platform** – IoT + Flutter + Firebase connection cyber physical system.
+- **Flocify – Smart Internet 5G Platform** – IoT + Flutter + PaloAlto + Firebase connection cyber physical system.
 
 ---
 
